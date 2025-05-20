@@ -25,8 +25,8 @@ Find the accuracy and display the result.
 
 
 #Program to implement the SVM For Spam Mail Detection..
-#Developed by: SUDHARSANAN U
-#RegisterNumber: 212224230276
+#Developed by: Sanjeev A
+#RegisterNumber: 212224230246
 
 import pandas as pd
 data=pd.read_csv("/content/drive/MyDrive/spam.csv", encoding='Windows-1252')
